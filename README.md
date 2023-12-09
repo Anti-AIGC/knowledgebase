@@ -17,14 +17,22 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
 
 ## Readings
 
+ - [The AI Revolution Part 1: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html), [Part 2: Our Immortality or Extinction](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html), 2015.1
  - [Benefits & Risks of Artificial Intelligence](https://futureoflife.org/ai/benefits-risks-of-artificial-intelligence/), 2015.11
+ - [Ethics of Artificial Intelligence and Robotics](https://plato.stanford.edu/entries/ethics-ai/), 2020.4
+ - [Ethical concerns mount as AI takes bigger decision-making role in more industries](https://news.harvard.edu/gazette/story/2020/10/ethical-concerns-mount-as-ai-takes-bigger-decision-making-role/), 2020.10
  - [AI Regulation Is Coming: How to prepare for the inevitable](https://hbr.org/2021/09/ai-regulation-is-coming), 2021.9
+ - [Beyond ChatGPT: The Future of Generative AI for Enterprises](https://www.gartner.com/en/articles/beyond-chatgpt-the-future-of-generative-ai-for-enterprises), 2023.1
  - [A Pathway Towards Responsible AI Generated Content](https://arxiv.org/pdf/2303.01325.pdf), 2023.3
  - [How will China’s Generative AI Regulations Shape the Future? A DigiChina Forum](https://digichina.stanford.edu/work/how-will-chinas-generative-ai-regulations-shape-the-future-a-digichina-forum/), 2023.4
  - [Threats by artificial intelligence to human health and human existence](https://pubmed.ncbi.nlm.nih.gov/37160371/), 2023.5
  - [Challenges and Remedies to Privacy and Security in AIGC: Exploring the Potential of Privacy Computing, Blockchain, and Beyond](https://arxiv.org/pdf/2306.00419.pdf), 2023.6
+ - [A Survey on ChatGPT: AI–Generated Contents, Challenges, and Solutions](https://arxiv.org/pdf/2305.18339.pdf), 2023.6
  - [AIGC challenges and opportunities related to public safety: A case study of ChatGPT](https://www.sciencedirect.com/science/article/pii/S2666449623000397), 2023.8
  - [The Legal Impact of AI on Associations](https://www.pillsburylaw.com/en/news-and-insights/legal-impact-of-ai-on-associations.html), 2023.10
+ - [AI-Generated Content: Ethical Considerations and Best Practices](https://colorwhistle.com/ai-generated-content-best-practices/), 2023.11
+ - [The Fight for the Soul of A.I.](https://www.nytimes.com/2023/11/23/opinion/sam-altman-openai.html), 2023.11
+ - [How Moral Can A.I. Really Be?](https://www.newyorker.com/science/annals-of-artificial-intelligence/how-moral-can-ai-really-be), 2023.11
 
 ## Tools
 
