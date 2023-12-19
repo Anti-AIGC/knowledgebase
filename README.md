@@ -15,12 +15,14 @@ For AIGC, we advocate healthy and reasonable use in areas that improve work effi
 For the vast majority of human groups, we advocate moderate digital content consumption and try to return to a natural and real living space;
 Before silicon-based life truly rules the earth, naturally-growing humans will be able to maintain the necessary adjustments and balances of body and mind in the physical, real-touch world, and avoid becoming objects completely supported and controlled by AI.
 
-## Readings
+## Readings & Insights
 
  - [The AI Revolution Part 1: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html), [Part 2: Our Immortality or Extinction](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html), 2015.1
  - [Benefits & Risks of Artificial Intelligence](https://futureoflife.org/ai/benefits-risks-of-artificial-intelligence/), 2015.11
+ - [Opinion: AI For Good Is Often Bad](https://www.wired.com/story/opinion-ai-for-good-is-often-bad/), 2019.11
  - [Ethics of Artificial Intelligence and Robotics](https://plato.stanford.edu/entries/ethics-ai/), 2020.4
  - [Ethical concerns mount as AI takes bigger decision-making role in more industries](https://news.harvard.edu/gazette/story/2020/10/ethical-concerns-mount-as-ai-takes-bigger-decision-making-role/), 2020.10
+ - [Proceduralizing control and discretion: Human oversight in artificial intelligence policy](https://doi.org/10.1177/1023263X20978649), 2020.12
  - [AI Regulation Is Coming: How to prepare for the inevitable](https://hbr.org/2021/09/ai-regulation-is-coming), 2021.9
  - [Beyond ChatGPT: The Future of Generative AI for Enterprises](https://www.gartner.com/en/articles/beyond-chatgpt-the-future-of-generative-ai-for-enterprises), 2023.1
  - [A Pathway Towards Responsible AI Generated Content](https://arxiv.org/pdf/2303.01325.pdf), 2023.3
@@ -34,18 +36,32 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
  - [The Fight for the Soul of A.I.](https://www.nytimes.com/2023/11/23/opinion/sam-altman-openai.html), 2023.11
  - [How Moral Can A.I. Really Be?](https://www.newyorker.com/science/annals-of-artificial-intelligence/how-moral-can-ai-really-be), 2023.11
 
+## Principles & Best Practices
+
+ - [OpenAI Charter](https://openai.com/charter) - OpenAI, 2018.4
+ - [DOD Adopts Ethical Principles for Artificial Intelligence](https://www.defense.gov/News/Releases/Release/Article/2091996/dod-adopts-ethical-principles-for-artificial-intelligence/) - The U.S. Department of Defense, 2020.2
+ - [Artificial Intelligence For Good: How AI Is Helping Humanity](https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/09/artificial-intelligence-for-good-how-ai-is-helping-humanity/) - Forbes, 2021.2
+ - [10 Ways AI Was Used for Good This Year](https://www.scientificamerican.com/article/10-ways-ai-was-used-for-good-this-year/) - SCIENTIFIC AMERICAN, 2022.12
+ - [Managing the risks of generative AI: A playbook for risk executives — beginning with governance](https://www.pwc.com/us/en/tech-effect/ai-analytics/managing-generative-ai-risks.html) - PWC, 2023.5
+ - [AI: These are the biggest risks to businesses and how to manage them](https://www.weforum.org/agenda/2023/07/ai-biggest-risks-how-to-manage-them/) - World Economic Forum, 2023.7
+ - [Responsible AI (RAI) Principles](https://www.mckinsey.com/capabilities/quantumblack/how-we-help-clients/generative-ai/responsible-ai-principles) - QuantumBlack, AI by McKinsey, 2023.8
+
 ## Tools
 
- - N/A yet.
+ - [botbusters.ai](https://botbusters.ai/): detect AI-generated texts, images, and fake profiles, all in one place.
 
-## Best Practices
+## Orgs & Institutions
 
- - TBD
-
-## Bad Practics
-
- - TBD
+ - [DataEthics](https://dataethics.eu/): to ensure the human value in a world of data, based on a European legal and value-based framework. We do so by focusing on collecting, creating and communicating knowledge about data ethics in close interaction with international institutions, organisations and academia.
+ - [AI for Good](https://ai4good.org/): is driving forward technological solutions that measure and advance the UN’s Sustainable Development Goals. We create impact by bringing together a broad network of interdisciplinary researchers, nonprofits, governments, and corporate actors to identify, prototype and scale solutions that engender positive change.
+ - [Partnership on AI (PAI)](https://partnershiponai.org/): a non-profit community of academic, civil society, industry, and media organizations addressing the most important and difficult questions concerning our future with AI, advancing positive outcomes for people and society.
+ - [AI Now Institute](https://ainowinstitute.org/): produces diagnosis and policy research on artificial intelligence. We develop policy strategy to redirect away from the current trajectory: unbridled commercial surveillance, consolidation of power in very few companies, and a lack of public accountability.
+ - [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/): an independent research institute with a mission to ensure data and AI work for people and society.
+ - [Stanford HAI](https://hai.stanford.edu/): advancing AI research, education, and policy to improve the human condition.
 
 ## Credits
 
+ - Some resources referenced from:
+   * [AIethicist](https://www.aiethicist.org/)
+   * [Omdena](https://omdena.com/blog/top-ai-startups-fighting-fake-news-misinformation/)
  - Website template by [Ijaz](https://github.com/ijazulrehman/Minimalistic-Startup-Landing-Page)
