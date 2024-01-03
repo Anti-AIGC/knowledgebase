@@ -69,6 +69,7 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
  - [AI Now Institute](https://ainowinstitute.org/): produces diagnosis and policy research on artificial intelligence. We develop policy strategy to redirect away from the current trajectory: unbridled commercial surveillance, consolidation of power in very few companies, and a lack of public accountability.
  - [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/): an independent research institute with a mission to ensure data and AI work for people and society.
  - [Stanford HAI](https://hai.stanford.edu/): advancing AI research, education, and policy to improve the human condition.
+ - [Artificial Intelligence @ MIRI](https://intelligence.org/): a research nonprofit studying the mathematical underpinnings of intelligent behavior. Our mission is to develop formal tools for the clean design and analysis of general-purpose AI systems, with the intent of making such systems safer and more reliable when they are developed.
 
 ## Credits
 
