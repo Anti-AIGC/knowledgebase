@@ -35,6 +35,7 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
  - [AI-Generated Content: Ethical Considerations and Best Practices](https://colorwhistle.com/ai-generated-content-best-practices/), 2023.11
  - [The Fight for the Soul of A.I.](https://www.nytimes.com/2023/11/23/opinion/sam-altman-openai.html), 2023.11
  - [How Moral Can A.I. Really Be?](https://www.newyorker.com/science/annals-of-artificial-intelligence/how-moral-can-ai-really-be), 2023.11
+ - [Now we know what OpenAI’s superalignment team has been up to](https://www.technologyreview.com/2023/12/14/1085344/openai-super-alignment-rogue-agi-gpt-4), 2023.12
 
 ## Principles & Best Practices
 
