@@ -32,6 +32,7 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
  - [A Survey on ChatGPT: AI–Generated Contents, Challenges, and Solutions](https://arxiv.org/pdf/2305.18339.pdf), 2023.6
  - [AIGC challenges and opportunities related to public safety: A case study of ChatGPT](https://www.sciencedirect.com/science/article/pii/S2666449623000397), 2023.8
  - [The Legal Impact of AI on Associations](https://www.pillsburylaw.com/en/news-and-insights/legal-impact-of-ai-on-associations.html), 2023.10
+ - [Theory of Mind Might Have Spontaneously Emerged in Large Language Models](https://arxiv.org/abs/2302.02083), 2023.11
  - [AI-Generated Content: Ethical Considerations and Best Practices](https://colorwhistle.com/ai-generated-content-best-practices/), 2023.11
  - [The Fight for the Soul of A.I.](https://www.nytimes.com/2023/11/23/opinion/sam-altman-openai.html), 2023.11
  - [How Moral Can A.I. Really Be?](https://www.newyorker.com/science/annals-of-artificial-intelligence/how-moral-can-ai-really-be), 2023.11
