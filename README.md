@@ -24,9 +24,11 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
  - [Ethical concerns mount as AI takes bigger decision-making role in more industries](https://news.harvard.edu/gazette/story/2020/10/ethical-concerns-mount-as-ai-takes-bigger-decision-making-role/), 2020.10
  - [Proceduralizing control and discretion: Human oversight in artificial intelligence policy](https://doi.org/10.1177/1023263X20978649), 2020.12
  - [AI Regulation Is Coming: How to prepare for the inevitable](https://hbr.org/2021/09/ai-regulation-is-coming), 2021.9
+ - [The State-of-the-Art in AI-Based Malware Detection Techniques: A Review](https://arxiv.org/abs/2210.11239), 2022.10
  - [Beyond ChatGPT: The Future of Generative AI for Enterprises](https://www.gartner.com/en/articles/beyond-chatgpt-the-future-of-generative-ai-for-enterprises), 2023.1
  - [A Pathway Towards Responsible AI Generated Content](https://arxiv.org/pdf/2303.01325.pdf), 2023.3
  - [How will China’s Generative AI Regulations Shape the Future? A DigiChina Forum](https://digichina.stanford.edu/work/how-will-chinas-generative-ai-regulations-shape-the-future-a-digichina-forum/), 2023.4
+ - [Cyber Defence Based on Artificial Intelligence and Neural Network Model in Cybersecurity](https://ieeexplore.ieee.org/abstract/document/10142590), 2023.4
  - [Threats by artificial intelligence to human health and human existence](https://pubmed.ncbi.nlm.nih.gov/37160371/), 2023.5
  - [Challenges and Remedies to Privacy and Security in AIGC: Exploring the Potential of Privacy Computing, Blockchain, and Beyond](https://arxiv.org/pdf/2306.00419.pdf), 2023.6
  - [A Survey on ChatGPT: AI–Generated Contents, Challenges, and Solutions](https://arxiv.org/pdf/2305.18339.pdf), 2023.6
@@ -37,7 +39,9 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
  - [The Fight for the Soul of A.I.](https://www.nytimes.com/2023/11/23/opinion/sam-altman-openai.html), 2023.11
  - [How Moral Can A.I. Really Be?](https://www.newyorker.com/science/annals-of-artificial-intelligence/how-moral-can-ai-really-be), 2023.11
  - [Now we know what OpenAI’s superalignment team has been up to](https://www.technologyreview.com/2023/12/14/1085344/openai-super-alignment-rogue-agi-gpt-4), 2023.12
+ - [The nudging effect of AIGC labeling on users’ perceptions of automated news: evidence from EEG](https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1277829/full), 2023.12
  - [What’s next for AI regulation in 2024?](https://www.technologyreview.com/2024/01/05/1086203/whats-next-ai-regulation-2024/), 2024.1
+ - [Bridging the Gap Between Artificial Intelligence Implementation, Governance, and Democracy: An Operational and Regulatory Perspective](https://www.fticonsulting.com/insights/articles/bridging-gap-between-artificial-intelligence-implementation-governance-democracy), 2024.1
 
 ## Principles & Best Practices
 
