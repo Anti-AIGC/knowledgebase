@@ -38,6 +38,7 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
  - [AI-Generated Content: Ethical Considerations and Best Practices](https://colorwhistle.com/ai-generated-content-best-practices/), 2023.11
  - [The Fight for the Soul of A.I.](https://www.nytimes.com/2023/11/23/opinion/sam-altman-openai.html), 2023.11
  - [How Moral Can A.I. Really Be?](https://www.newyorker.com/science/annals-of-artificial-intelligence/how-moral-can-ai-really-be), 2023.11
+ - [EU AI Act: first regulation on artificial intelligence](https://www.europarl.europa.eu/news/en/headlines/society/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence), 2023.12
  - [Now we know what OpenAI’s superalignment team has been up to](https://www.technologyreview.com/2023/12/14/1085344/openai-super-alignment-rogue-agi-gpt-4), 2023.12
  - [The nudging effect of AIGC labeling on users’ perceptions of automated news: evidence from EEG](https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1277829/full), 2023.12
  - [What’s next for AI regulation in 2024?](https://www.technologyreview.com/2024/01/05/1086203/whats-next-ai-regulation-2024/), 2024.1
