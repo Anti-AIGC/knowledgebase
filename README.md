@@ -50,6 +50,7 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
  - [DOD Adopts Ethical Principles for Artificial Intelligence](https://www.defense.gov/News/Releases/Release/Article/2091996/dod-adopts-ethical-principles-for-artificial-intelligence/) - The U.S. Department of Defense, 2020.2
  - [Artificial Intelligence For Good: How AI Is Helping Humanity](https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/09/artificial-intelligence-for-good-how-ai-is-helping-humanity/) - Forbes, 2021.2
  - [10 Ways AI Was Used for Good This Year](https://www.scientificamerican.com/article/10-ways-ai-was-used-for-good-this-year/) - SCIENTIFIC AMERICAN, 2022.12
+ - [BCG’s Tools and Solutions for Responsible AI](https://www.bcg.com/capabilities/artificial-intelligence/responsible-ai) - Boston Consulting Group, 2023.3
  - [Managing the risks of generative AI: A playbook for risk executives — beginning with governance](https://www.pwc.com/us/en/tech-effect/ai-analytics/managing-generative-ai-risks.html) - PWC, 2023.5
  - [AI: These are the biggest risks to businesses and how to manage them](https://www.weforum.org/agenda/2023/07/ai-biggest-risks-how-to-manage-them/) - World Economic Forum, 2023.7
  - [Responsible AI (RAI) Principles](https://www.mckinsey.com/capabilities/quantumblack/how-we-help-clients/generative-ai/responsible-ai-principles) - QuantumBlack, AI by McKinsey, 2023.8
