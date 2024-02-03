@@ -23,7 +23,9 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
  - [Ethics of Artificial Intelligence and Robotics](https://plato.stanford.edu/entries/ethics-ai/), 2020.4
  - [Ethical concerns mount as AI takes bigger decision-making role in more industries](https://news.harvard.edu/gazette/story/2020/10/ethical-concerns-mount-as-ai-takes-bigger-decision-making-role/), 2020.10
  - [Proceduralizing control and discretion: Human oversight in artificial intelligence policy](https://doi.org/10.1177/1023263X20978649), 2020.12
+ - [Artificial Intelligence For Good: How AI Is Helping Humanity](https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/09/artificial-intelligence-for-good-how-ai-is-helping-humanity/) - Forbes, 2021.2
  - [AI Regulation Is Coming: How to prepare for the inevitable](https://hbr.org/2021/09/ai-regulation-is-coming), 2021.9
+ - [Governing artificial intelligence in China and the European Union: Comparing aims and promoting ethical outcomes](https://www.tandfonline.com/doi/full/10.1080/01972243.2022.2124565), 2022.9
  - [The State-of-the-Art in AI-Based Malware Detection Techniques: A Review](https://arxiv.org/abs/2210.11239), 2022.10
  - [Beyond ChatGPT: The Future of Generative AI for Enterprises](https://www.gartner.com/en/articles/beyond-chatgpt-the-future-of-generative-ai-for-enterprises), 2023.1
  - [A Pathway Towards Responsible AI Generated Content](https://arxiv.org/pdf/2303.01325.pdf), 2023.3
@@ -32,6 +34,7 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
  - [Threats by artificial intelligence to human health and human existence](https://pubmed.ncbi.nlm.nih.gov/37160371/), 2023.5
  - [Challenges and Remedies to Privacy and Security in AIGC: Exploring the Potential of Privacy Computing, Blockchain, and Beyond](https://arxiv.org/pdf/2306.00419.pdf), 2023.6
  - [A Survey on ChatGPT: AI–Generated Contents, Challenges, and Solutions](https://arxiv.org/pdf/2305.18339.pdf), 2023.6
+ - [AI: These are the biggest risks to businesses and how to manage them](https://www.weforum.org/agenda/2023/07/ai-biggest-risks-how-to-manage-them/) - World Economic Forum, 2023.7
  - [AIGC challenges and opportunities related to public safety: A case study of ChatGPT](https://www.sciencedirect.com/science/article/pii/S2666449623000397), 2023.8
  - [The Legal Impact of AI on Associations](https://www.pillsburylaw.com/en/news-and-insights/legal-impact-of-ai-on-associations.html), 2023.10
  - [Theory of Mind Might Have Spontaneously Emerged in Large Language Models](https://arxiv.org/abs/2302.02083), 2023.11
@@ -48,12 +51,13 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
 
  - [OpenAI Charter](https://openai.com/charter) - OpenAI, 2018.4
  - [DOD Adopts Ethical Principles for Artificial Intelligence](https://www.defense.gov/News/Releases/Release/Article/2091996/dod-adopts-ethical-principles-for-artificial-intelligence/) - The U.S. Department of Defense, 2020.2
- - [Artificial Intelligence For Good: How AI Is Helping Humanity](https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/09/artificial-intelligence-for-good-how-ai-is-helping-humanity/) - Forbes, 2021.2
  - [10 Ways AI Was Used for Good This Year](https://www.scientificamerican.com/article/10-ways-ai-was-used-for-good-this-year/) - SCIENTIFIC AMERICAN, 2022.12
+ - [AI Risk Management Framework (AI RMF 1.0)](https://www.nist.gov/itl/ai-risk-management-framework), 2023.1
  - [BCG’s Tools and Solutions for Responsible AI](https://www.bcg.com/capabilities/artificial-intelligence/responsible-ai) - Boston Consulting Group, 2023.3
  - [Managing the risks of generative AI: A playbook for risk executives — beginning with governance](https://www.pwc.com/us/en/tech-effect/ai-analytics/managing-generative-ai-risks.html) - PWC, 2023.5
- - [AI: These are the biggest risks to businesses and how to manage them](https://www.weforum.org/agenda/2023/07/ai-biggest-risks-how-to-manage-them/) - World Economic Forum, 2023.7
+ - [Approaches to Regulating Artificial Intelligence: A Primer](https://www.ncsl.org/technology-and-communication/approaches-to-regulating-artificial-intelligence-a-primer) - NCSL, 2023.8
  - [Responsible AI (RAI) Principles](https://www.mckinsey.com/capabilities/quantumblack/how-we-help-clients/generative-ai/responsible-ai-principles) - QuantumBlack, AI by McKinsey, 2023.8
+ - [A Guide to AI Governance for Business Leaders](https://www.bcg.com/publications/2023/a-guide-to-mitigating-ai-risks) - Boston Consulting Group, 2023.11
 
 ## Tools
 
