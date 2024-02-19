@@ -46,13 +46,14 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
  - [The nudging effect of AIGC labeling on users’ perceptions of automated news: evidence from EEG](https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1277829/full), 2023.12
  - [What’s next for AI regulation in 2024?](https://www.technologyreview.com/2024/01/05/1086203/whats-next-ai-regulation-2024/), 2024.1
  - [Bridging the Gap Between Artificial Intelligence Implementation, Governance, and Democracy: An Operational and Regulatory Perspective](https://www.fticonsulting.com/insights/articles/bridging-gap-between-artificial-intelligence-implementation-governance-democracy), 2024.1
+ - [Realism of OpenAI’s Sora video generator raises security concerns](https://www.newscientist.com/article/2417639-realism-of-openais-sora-video-generator-raises-security-concerns/), 2024.2
 
 ## Principles & Best Practices
 
  - [OpenAI Charter](https://openai.com/charter) - OpenAI, 2018.4
  - [DOD Adopts Ethical Principles for Artificial Intelligence](https://www.defense.gov/News/Releases/Release/Article/2091996/dod-adopts-ethical-principles-for-artificial-intelligence/) - The U.S. Department of Defense, 2020.2
  - [10 Ways AI Was Used for Good This Year](https://www.scientificamerican.com/article/10-ways-ai-was-used-for-good-this-year/) - SCIENTIFIC AMERICAN, 2022.12
- - [AI Risk Management Framework (AI RMF 1.0)](https://www.nist.gov/itl/ai-risk-management-framework), 2023.1
+ - [AI Risk Management Framework (AI RMF 1.0)](https://www.nist.gov/itl/ai-risk-management-framework) - The National Institute of Standards and Technology (NIST), 2023.1
  - [BCG’s Tools and Solutions for Responsible AI](https://www.bcg.com/capabilities/artificial-intelligence/responsible-ai) - Boston Consulting Group, 2023.3
  - [Managing the risks of generative AI: A playbook for risk executives — beginning with governance](https://www.pwc.com/us/en/tech-effect/ai-analytics/managing-generative-ai-risks.html) - PWC, 2023.5
  - [Approaches to Regulating Artificial Intelligence: A Primer](https://www.ncsl.org/technology-and-communication/approaches-to-regulating-artificial-intelligence-a-primer) - NCSL, 2023.8
