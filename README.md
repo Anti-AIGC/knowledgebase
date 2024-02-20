@@ -58,6 +58,7 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
  - [Managing the risks of generative AI: A playbook for risk executives — beginning with governance](https://www.pwc.com/us/en/tech-effect/ai-analytics/managing-generative-ai-risks.html) - PWC, 2023.5
  - [Approaches to Regulating Artificial Intelligence: A Primer](https://www.ncsl.org/technology-and-communication/approaches-to-regulating-artificial-intelligence-a-primer) - NCSL, 2023.8
  - [Responsible AI (RAI) Principles](https://www.mckinsey.com/capabilities/quantumblack/how-we-help-clients/generative-ai/responsible-ai-principles) - QuantumBlack, AI by McKinsey, 2023.8
+ - [G7 AI Principles and Code of Conduct](https://www.ey.com/en_cn/ai/g7-ai-principles-and-code-of-conduct) - EY, 2023.10
  - [A Guide to AI Governance for Business Leaders](https://www.bcg.com/publications/2023/a-guide-to-mitigating-ai-risks) - Boston Consulting Group, 2023.11
 
 ## Tools
