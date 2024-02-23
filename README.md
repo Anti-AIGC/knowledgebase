@@ -37,6 +37,7 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
  - [AI: These are the biggest risks to businesses and how to manage them](https://www.weforum.org/agenda/2023/07/ai-biggest-risks-how-to-manage-them/) - World Economic Forum, 2023.7
  - [AIGC challenges and opportunities related to public safety: A case study of ChatGPT](https://www.sciencedirect.com/science/article/pii/S2666449623000397), 2023.8
  - [The Legal Impact of AI on Associations](https://www.pillsburylaw.com/en/news-and-insights/legal-impact-of-ai-on-associations.html), 2023.10
+ - [Fake content is becoming a real problem](https://kpmg.com/us/en/articles/2023/fake-content-becoming-real-problem.html), 2023.10
  - [Theory of Mind Might Have Spontaneously Emerged in Large Language Models](https://arxiv.org/abs/2302.02083), 2023.11
  - [AI-Generated Content: Ethical Considerations and Best Practices](https://colorwhistle.com/ai-generated-content-best-practices/), 2023.11
  - [The Fight for the Soul of A.I.](https://www.nytimes.com/2023/11/23/opinion/sam-altman-openai.html), 2023.11
