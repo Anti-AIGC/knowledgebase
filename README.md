@@ -21,6 +21,7 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
  - [Benefits & Risks of Artificial Intelligence](https://futureoflife.org/ai/benefits-risks-of-artificial-intelligence/), 2015.11
  - [Opinion: AI For Good Is Often Bad](https://www.wired.com/story/opinion-ai-for-good-is-often-bad/), 2019.11
  - [Ethics of Artificial Intelligence and Robotics](https://plato.stanford.edu/entries/ethics-ai/), 2020.4
+ - [Staying ahead of the curve – The business case for responsible AI](https://www.eiu.com/n/staying-ahead-of-the-curve-the-business-case-for-responsible-ai/), 2020.10
  - [Ethical concerns mount as AI takes bigger decision-making role in more industries](https://news.harvard.edu/gazette/story/2020/10/ethical-concerns-mount-as-ai-takes-bigger-decision-making-role/), 2020.10
  - [Proceduralizing control and discretion: Human oversight in artificial intelligence policy](https://doi.org/10.1177/1023263X20978649), 2020.12
  - [Artificial Intelligence For Good: How AI Is Helping Humanity](https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/09/artificial-intelligence-for-good-how-ai-is-helping-humanity/) - Forbes, 2021.2
@@ -52,6 +53,7 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
 ## Principles & Best Practices
 
  - [OpenAI Charter](https://openai.com/charter) - OpenAI, 2018.4
+ - [Google AI Principles](https://ai.google/responsibility/principles/) - Google, 2018.6
  - [DOD Adopts Ethical Principles for Artificial Intelligence](https://www.defense.gov/News/Releases/Release/Article/2091996/dod-adopts-ethical-principles-for-artificial-intelligence/) - The U.S. Department of Defense, 2020.2
  - [10 Ways AI Was Used for Good This Year](https://www.scientificamerican.com/article/10-ways-ai-was-used-for-good-this-year/) - SCIENTIFIC AMERICAN, 2022.12
  - [AI Risk Management Framework (AI RMF 1.0)](https://www.nist.gov/itl/ai-risk-management-framework) - The National Institute of Standards and Technology (NIST), 2023.1
