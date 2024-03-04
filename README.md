@@ -52,8 +52,10 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
 
 ## Principles & Best Practices
 
+ - [Microsoft AI: Responsible AI Principles and approach](https://www.microsoft.com/en-us/ai/principles-and-approach)
+ - [Google AI Principles](https://ai.google/responsibility/principles/)
+ - [Meta Responsible AI](https://ai.meta.com/responsible-ai/)
  - [OpenAI Charter](https://openai.com/charter) - OpenAI, 2018.4
- - [Google AI Principles](https://ai.google/responsibility/principles/) - Google, 2018.6
  - [DOD Adopts Ethical Principles for Artificial Intelligence](https://www.defense.gov/News/Releases/Release/Article/2091996/dod-adopts-ethical-principles-for-artificial-intelligence/) - The U.S. Department of Defense, 2020.2
  - [10 Ways AI Was Used for Good This Year](https://www.scientificamerican.com/article/10-ways-ai-was-used-for-good-this-year/) - SCIENTIFIC AMERICAN, 2022.12
  - [AI Risk Management Framework (AI RMF 1.0)](https://www.nist.gov/itl/ai-risk-management-framework) - The National Institute of Standards and Technology (NIST), 2023.1
