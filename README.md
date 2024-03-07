@@ -85,6 +85,7 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
 
 ## Orgs & Institutions
 
+ - [The AI Alliance](https://thealliance.ai/): a community of technology creators, developers and adopters collaborating to advance safe, responsible AI rooted in open innovation.
  - [DataEthics](https://dataethics.eu/): to ensure the human value in a world of data, based on a European legal and value-based framework. We do so by focusing on collecting, creating and communicating knowledge about data ethics in close interaction with international institutions, organisations and academia.
  - [AI for Good](https://ai4good.org/): is driving forward technological solutions that measure and advance the UN’s Sustainable Development Goals. We create impact by bringing together a broad network of interdisciplinary researchers, nonprofits, governments, and corporate actors to identify, prototype and scale solutions that engender positive change.
  - [Partnership on AI (PAI)](https://partnershiponai.org/): a non-profit community of academic, civil society, industry, and media organizations addressing the most important and difficult questions concerning our future with AI, advancing positive outcomes for people and society.
