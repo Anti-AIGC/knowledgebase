@@ -65,6 +65,7 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
  - [Responsible AI (RAI) Principles](https://www.mckinsey.com/capabilities/quantumblack/how-we-help-clients/generative-ai/responsible-ai-principles) - QuantumBlack, AI by McKinsey, 2023.8
  - [G7 AI Principles and Code of Conduct](https://www.ey.com/en_cn/ai/g7-ai-principles-and-code-of-conduct) - EY, 2023.10
  - [A Guide to AI Governance for Business Leaders](https://www.bcg.com/publications/2023/a-guide-to-mitigating-ai-risks) - Boston Consulting Group, 2023.11
+ - [人工智能北京共识](https://www.baai.ac.cn/portal/article/index/type/center_result/id/589.html) - BAAI 智源研究院, 2024.3
 
 ## Tools
 
