@@ -65,7 +65,11 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
  - [Responsible AI (RAI) Principles](https://www.mckinsey.com/capabilities/quantumblack/how-we-help-clients/generative-ai/responsible-ai-principles) - QuantumBlack, AI by McKinsey, 2023.8
  - [G7 AI Principles and Code of Conduct](https://www.ey.com/en_cn/ai/g7-ai-principles-and-code-of-conduct) - EY, 2023.10
  - [A Guide to AI Governance for Business Leaders](https://www.bcg.com/publications/2023/a-guide-to-mitigating-ai-risks) - Boston Consulting Group, 2023.11
+ - [大语言模型（LLM） 安全性测评基准 V1.0](http://www.owasp.org.cn/OWASP-CHINA/owasp-project/LLM/) - OWASP中国, 2023.11
+ - [生成式人工智能服务安全基本要求](https://www.tc260.org.cn/front/postDetail.html?id=20240301164054) - 中国网络安全标准化技术委员会, 2024.3
  - [人工智能北京共识](https://www.baai.ac.cn/portal/article/index/type/center_result/id/589.html) - BAAI 智源研究院, 2024.3
+ - [Generative AI Application Security Testing and Validation Standard](https://www.wdtacademy.org/publications/GenerativeAiApplicationSecurityTestingAndValidationStandard) - WDTA, 2024.4
+ - [Large Language Model Security Testing Method](https://www.wdtacademy.org/publications/LargeLanguageModelSecurityTestingMethod) - WDTA, 2024.4
 
 ## Tools
 
@@ -84,6 +88,7 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
  - [Glaze](https://glaze.cs.uchicago.edu/): a system designed to protect human artists by disrupting style mimicry.
  - [NightShade](https://nightshade.cs.uchicago.edu/): Nightshade works similarly as Glaze, but instead of a defense against style mimicry, it is designed as an offense tool to distort feature representations inside generative AI image models.
  - [LLMSanitize](https://github.com/ntunlp/LLMSanitize): An open-source library for contamination detection in NLP datasets and Large Language Models (LLMs).
+ - [SAMMO](https://github.com/microsoft/sammo): A library for prompt engineering and optimization (SAMMO = Structure-aware Multi-Objective Metaprompt Optimization).
 
 ## Orgs & Institutions
 
