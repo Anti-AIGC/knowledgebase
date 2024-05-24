@@ -70,6 +70,7 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
  - [人工智能北京共识](https://www.baai.ac.cn/portal/article/index/type/center_result/id/589.html) - BAAI 智源研究院, 2024.3
  - [Generative AI Application Security Testing and Validation Standard](https://www.wdtacademy.org/publications/GenerativeAiApplicationSecurityTestingAndValidationStandard) - WDTA, 2024.4
  - [Large Language Model Security Testing Method](https://www.wdtacademy.org/publications/LargeLanguageModelSecurityTestingMethod) - WDTA, 2024.4
+ - [Frontier AI Safety Commitments](https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024) - Seoul AI Safety Summit, 2024.5
 
 ## Tools
 
