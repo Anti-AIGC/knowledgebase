@@ -71,6 +71,8 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
  - [Generative AI Application Security Testing and Validation Standard](https://www.wdtacademy.org/publications/GenerativeAiApplicationSecurityTestingAndValidationStandard) - WDTA, 2024.4
  - [Large Language Model Security Testing Method](https://www.wdtacademy.org/publications/LargeLanguageModelSecurityTestingMethod) - WDTA, 2024.4
  - [Frontier AI Safety Commitments](https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024) - Seoul AI Safety Summit, 2024.5
+ - [OpenAI Model Spec](https://cdn.openai.com/spec/model-spec-2024-05-08.html) - OpenAI, 2024.5
+ - [Reflections on our Responsible Scaling Policy](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy), Anthropic, 2024.5
 
 ## Tools
 
