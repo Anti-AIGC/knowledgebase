@@ -27,19 +27,13 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
  - [Artificial Intelligence For Good: How AI Is Helping Humanity](https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/09/artificial-intelligence-for-good-how-ai-is-helping-humanity/) - Forbes, 2021.2
  - [AI Regulation Is Coming: How to prepare for the inevitable](https://hbr.org/2021/09/ai-regulation-is-coming), 2021.9
  - [Governing artificial intelligence in China and the European Union: Comparing aims and promoting ethical outcomes](https://www.tandfonline.com/doi/full/10.1080/01972243.2022.2124565), 2022.9
- - [The State-of-the-Art in AI-Based Malware Detection Techniques: A Review](https://arxiv.org/abs/2210.11239), 2022.10
  - [Beyond ChatGPT: The Future of Generative AI for Enterprises](https://www.gartner.com/en/articles/beyond-chatgpt-the-future-of-generative-ai-for-enterprises), 2023.1
- - [A Pathway Towards Responsible AI Generated Content](https://arxiv.org/pdf/2303.01325.pdf), 2023.3
  - [How will China’s Generative AI Regulations Shape the Future? A DigiChina Forum](https://digichina.stanford.edu/work/how-will-chinas-generative-ai-regulations-shape-the-future-a-digichina-forum/), 2023.4
  - [Cyber Defence Based on Artificial Intelligence and Neural Network Model in Cybersecurity](https://ieeexplore.ieee.org/abstract/document/10142590), 2023.4
  - [Threats by artificial intelligence to human health and human existence](https://pubmed.ncbi.nlm.nih.gov/37160371/), 2023.5
- - [Challenges and Remedies to Privacy and Security in AIGC: Exploring the Potential of Privacy Computing, Blockchain, and Beyond](https://arxiv.org/pdf/2306.00419.pdf), 2023.6
- - [A Survey on ChatGPT: AI–Generated Contents, Challenges, and Solutions](https://arxiv.org/pdf/2305.18339.pdf), 2023.6
  - [AI: These are the biggest risks to businesses and how to manage them](https://www.weforum.org/agenda/2023/07/ai-biggest-risks-how-to-manage-them/) - World Economic Forum, 2023.7
- - [AIGC challenges and opportunities related to public safety: A case study of ChatGPT](https://www.sciencedirect.com/science/article/pii/S2666449623000397), 2023.8
  - [The Legal Impact of AI on Associations](https://www.pillsburylaw.com/en/news-and-insights/legal-impact-of-ai-on-associations.html), 2023.10
  - [Fake content is becoming a real problem](https://kpmg.com/us/en/articles/2023/fake-content-becoming-real-problem.html), 2023.10
- - [Theory of Mind Might Have Spontaneously Emerged in Large Language Models](https://arxiv.org/abs/2302.02083), 2023.11
  - [AI-Generated Content: Ethical Considerations and Best Practices](https://colorwhistle.com/ai-generated-content-best-practices/), 2023.11
  - [The Fight for the Soul of A.I.](https://www.nytimes.com/2023/11/23/opinion/sam-altman-openai.html), 2023.11
  - [How Moral Can A.I. Really Be?](https://www.newyorker.com/science/annals-of-artificial-intelligence/how-moral-can-ai-really-be), 2023.11
@@ -91,7 +85,23 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
  - [Glaze](https://glaze.cs.uchicago.edu/): a system designed to protect human artists by disrupting style mimicry.
  - [NightShade](https://nightshade.cs.uchicago.edu/): Nightshade works similarly as Glaze, but instead of a defense against style mimicry, it is designed as an offense tool to distort feature representations inside generative AI image models.
  - [LLMSanitize](https://github.com/ntunlp/LLMSanitize): An open-source library for contamination detection in NLP datasets and Large Language Models (LLMs).
- - [SAMMO](https://github.com/microsoft/sammo): A library for prompt engineering and optimization (SAMMO = Structure-aware Multi-Objective Metaprompt Optimization).
+
+## Research & Papers
+
+ - [SafeSora: Towards Safety Alignment of Text2Video Generation via a Human Preference Dataset](https://github.com/PKU-Alignment/safe-sora), 2024.6
+ - [CopyCat: Fantastic Copyrighted Beasts and How (Not) to Generate Them](https://github.com/princeton-nlp/CopyCat), 2024.6
+ - [Fake-Inversion: Learning to Detect Images from Unseen Models by Inverting Stable Diffusion](https://fake-inversion.github.io/), 2024.6
+ - [RO-SVD: A Reconfigurable Hardware Copyright Protection Framework for AIGC Applications](https://arxiv.org/abs/2406.11536v1), 2024.6
+ - [DIVID（DIffusion-generated VIdeo Detection）: Towards Robust Detection of AI-Generated Videos](https://arxiv.org/abs/2406.09601v1), 2024.6
+ - [RIGID: A Training-free and Model-Agnostic Framework for Robust AI-Generated Image Detection](https://arxiv.org/abs/2405.20112v1), 2024.5
+ - [DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark](https://arxiv.org/abs/2405.19707), 2024.5
+ - [Protect-Your-IP: Scalable Source-Tracing and Attribution against Personalized Generation](https://arxiv.org/abs/2405.16596v1), 2024.5
+ - [Theory of Mind Might Have Spontaneously Emerged in Large Language Models](https://arxiv.org/abs/2302.02083), 2023.11
+ - [AIGC challenges and opportunities related to public safety: A case study of ChatGPT](https://www.sciencedirect.com/science/article/pii/S2666449623000397), 2023.8
+ - [A Survey on ChatGPT: AI–Generated Contents, Challenges, and Solutions](https://arxiv.org/pdf/2305.18339.pdf), 2023.6
+ - [Challenges and Remedies to Privacy and Security in AIGC: Exploring the Potential of Privacy Computing, Blockchain, and Beyond](https://arxiv.org/pdf/2306.00419.pdf), 2023.6
+ - [A Pathway Towards Responsible AI Generated Content](https://arxiv.org/pdf/2303.01325.pdf), 2023.3
+ - [The State-of-the-Art in AI-Based Malware Detection Techniques: A Review](https://arxiv.org/abs/2210.11239), 2022.10
 
 ## Orgs & Institutions
 
