@@ -67,6 +67,7 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
  - [Frontier AI Safety Commitments](https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024) - Seoul AI Safety Summit, 2024.5
  - [OpenAI Model Spec](https://cdn.openai.com/spec/model-spec-2024-05-08.html) - OpenAI, 2024.5
  - [Reflections on our Responsible Scaling Policy](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy), Anthropic, 2024.5
+ - [人工智能全球治理上海宣言](https://www.gov.cn/yaowen/liebiao/202407/content_6961358.htm), WAIC, 2024.7
 
 ## Tools
 
