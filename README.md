@@ -25,6 +25,7 @@ Before silicon-based life truly rules the earth, naturally-growing humans will b
  - [Ethical concerns mount as AI takes bigger decision-making role in more industries](https://news.harvard.edu/gazette/story/2020/10/ethical-concerns-mount-as-ai-takes-bigger-decision-making-role/), 2020.10
  - [Proceduralizing control and discretion: Human oversight in artificial intelligence policy](https://doi.org/10.1177/1023263X20978649), 2020.12
  - [Artificial Intelligence For Good: How AI Is Helping Humanity](https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/09/artificial-intelligence-for-good-how-ai-is-helping-humanity/) - Forbes, 2021.2
+ - [A Survey of Defenses against AI-generated Visual Media: Detection, Disruption, and Authentication](https://arxiv.org/pdf/2407.10575v1) - IEEE, 2021.8
  - [AI Regulation Is Coming: How to prepare for the inevitable](https://hbr.org/2021/09/ai-regulation-is-coming), 2021.9
  - [Governing artificial intelligence in China and the European Union: Comparing aims and promoting ethical outcomes](https://www.tandfonline.com/doi/full/10.1080/01972243.2022.2124565), 2022.9
  - [Beyond ChatGPT: The Future of Generative AI for Enterprises](https://www.gartner.com/en/articles/beyond-chatgpt-the-future-of-generative-ai-for-enterprises), 2023.1
